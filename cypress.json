@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://www.bunnings.com.au/",
+    "testFiles": "**/*.feature",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
