@@ -91,3 +91,5 @@ Test files:
 •	po.js : prefer selecting elements rather than element attributes
 
 •	steps.js: responsible for the steps and actions
+
+https://github.com/Lisatest11/bunnings/tree/main/cypress/integration/Bunnings
