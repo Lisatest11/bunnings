@@ -36,7 +36,9 @@ Create your own project:
 2.Create your project, e.g. 
 
 >>>mkdir QAdemo
+
 >>>cd QAdemo
+
 >>>code .
 (will open the Visual Studio Code )
 
